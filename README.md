@@ -1,2 +1,2 @@
-# Yesterday-Once-More-Theme-for-Obsidian
+# Golden-Time-theme-for-Obsidian
 A golden Obsidian theme.
